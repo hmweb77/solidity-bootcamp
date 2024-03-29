@@ -11,5 +11,5 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
     console.log(account.account.address);
   }
 });
-export default config;
 
+export default config;
